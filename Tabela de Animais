@@ -1,0 +1,46 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <tr> 
+            <th>Gatos</th>
+            <th>Cachorros</th>
+        </tr>
+        <tr>
+            <td>
+                <a href="http://adote.me/gato1.html"></a>
+    <img src="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/12/17/866513462-gato.jpg" width="200"> 
+            </td>
+            <td>
+                <a href="http://adote.me/Cachorro1.html"></a>
+    <img src="https://www.pedigree.com.br/sites/g/files/fnmzdf2401/files/2023-09/cachorro-dorme-muito-01.jpg" width="200"> 
+            </td>
+        </tr>
+        <td>
+            <a href="http://adote.me/gato2.html"></a>
+<img src="https://stage.optimumpet.com.br/media/uploads/2023/05/anos-vive-gato-01-1024x683.webp" width="200"> 
+        </td>
+        <td>
+            <a href="http://adote.me/Cachorro2.html"></a>
+<img src="https://st4.depositphotos.com/13324256/22615/i/450/depositphotos_226157956-stock-photo-cute-welsh-corgi-dog-sitting.jpg" width="200"> 
+        </td>
+        <tr>
+            <td>
+                <a href="http://adote.me/gato3.html"></a>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkmi1eaGSQuzjKE2T2qhTqehIYtK_oW3PSA&s" width="200"> 
+            </td>
+            <td>
+                <a href="http://adote.me/Cachorro3.html"></a>
+    <img src="https://veja.abril.com.br/wp-content/uploads/2017/01/cao-labrador-3-copy.jpg?quality=90&strip=info&w=720&h=440&crop=1" width="200"> 
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
